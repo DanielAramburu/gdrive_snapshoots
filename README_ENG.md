@@ -41,8 +41,8 @@ npm install
 Create a file named `.env` in the root directory of your project and configure your local path and backup prefix:
 
 ```env
-RUTA_A_RESPALDAR=./mi_carpeta_a_respaldar
-PREFIJO_NOMBRE=backup_
+BACKUP_ROUTE=./mi_carpeta_a_respaldar
+BACKUP_PREFIX=backup_
 ```
 
 ---

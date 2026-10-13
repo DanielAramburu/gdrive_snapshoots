@@ -37,8 +37,8 @@ npm install
 Crea un archivo llamado `.env` en el directorio raíz de tu proyecto y configura la ruta de tu carpeta y el prefijo de las copias:
 
 ```env
-RUTA_A_RESPALDAR=./mi_carpeta_a_respaldar
-PREFIJO_NOMBRE=backup_
+BACKUP_ROUTE=./mi_carpeta_a_respaldar
+BACKUP_PREFIX=backup_
 ```
 
 ## Uso
