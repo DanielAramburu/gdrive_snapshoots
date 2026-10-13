@@ -52,7 +52,7 @@ BACKUP_PREFIX=backup_
 Run the script using Node.js:
 
 ```bash
-node backup_drive.js
+node backup.js
 ```
 
 ### First-Time Authentication:
